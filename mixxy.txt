@@ -2,6 +2,6 @@ menu pemesanan
 - web untuk pemesanan dan reservasasi online untuk kepentingan clien 
 - membuat web secara bertahap 
 - melatih pembuatan web dengan macbook
-- terus beradaptasi dengan macbook
 - kolaborasi dengan lebih banyak expert
+- membuat web selanjutnya
  
